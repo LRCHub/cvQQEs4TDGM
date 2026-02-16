@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Bam Yang Gang",
+  "base_artist": "BIBI",
+  "createdAt": "2026-02-16T13:52:29.669506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bam Yang Gang",
+      "artist": "BIBI",
+      "has_synced": true,
+      "path": "select/01_Bam_Yang_Gang_BIBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bam Yang Gang (밤양갱)",
+      "artist": "BIBI",
+      "has_synced": true,
+      "path": "select/02_Bam_Yang_Gang_(밤양갱)_BIBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bam Yang Gang",
+      "artist": "Bibi",
+      "has_synced": true,
+      "path": "select/03_Bam_Yang_Gang_Bibi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bam Yang Gang",
+      "artist": "Bibi",
+      "has_synced": true,
+      "path": "select/04_Bam_Yang_Gang_Bibi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bam Yang Gang (밤양갱)",
+      "artist": "BIBI",
+      "has_synced": true,
+      "path": "select/05_Bam_Yang_Gang_(밤양갱)_BIBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bam Yang Gang",
+      "artist": "BIBI",
+      "has_synced": false,
+      "path": "select/pl_01_Bam_Yang_Gang_BIBI.txt"
+    }
+  ]
+}
